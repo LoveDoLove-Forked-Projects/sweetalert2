@@ -91,3 +91,19 @@ For all questions related to sponsorship please get in touch with me via email s
 <td align="center"><a href="https://www.bsdoll.com/"><img src="https://sweetalert2.github.io/images/sponsors/bsdoll.jpg" width="80"><br>BSDoll</a></td>
 </tr>
 </table>
+<table>
+<tr>
+<td align="center"><a href="https://www.uloversdoll.com/"><img src="https://sweetalert2.github.io/images/sponsors/uloversdoll.png" width="80"><br>ULoversDoll</a></td>
+<td align="center"><a href="https://www.uloversdoll.de/"><img src="https://sweetalert2.github.io/images/sponsors/uloversdoll.png" width="80"><br>Uloversdoll.de</a></td>
+<td align="center"><a href="https://www.karenlovely.jp/"><img src="https://sweetalert2.github.io/images/sponsors/karenlovely.png" width="80"><br>Karenlovely</a></td>
+<td align="center"><a href="https://www.karendoll.com/"><img src="https://sweetalert2.github.io/images/sponsors/karendoll.png" width="80"><br>Karendoll</a></td>
+</tr>
+</table>
+<table>
+<tr>
+<td align="center"><a href="https://www.gutdolls.com/"><img src="https://sweetalert2.github.io/images/sponsors/gutdolls.png" width="80"><br>Gutdolls</a></td>
+<td align="center"><a href="https://www.fraudoll.com/"><img src="https://sweetalert2.github.io/images/sponsors/fraudoll.png" width="80"><br>Fraudoll</a></td>
+<td align="center"><a href="https://www.yeloly.com/"><img src="https://sweetalert2.github.io/images/sponsors/yeloly.png" width="80"><br>Yeloly</a></td>
+<td align="center"><a href="https://www.yeloly.de/"><img src="https://sweetalert2.github.io/images/sponsors/yeloly.png" width="80"><br>Yeloly.de</a></td>
+</tr>
+</table>
